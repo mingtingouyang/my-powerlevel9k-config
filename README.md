@@ -11,4 +11,4 @@
 
 预览图：
 
-![mac p9k](https://wx4.sinaimg.cn/large/82bcafe1gy1g6epvnk5enj21ks13e1aj.jpg)
+![mac p9k](https://github.com/mingtingouyang/my-powerlevel9k-config/blob/master/pic/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-28%2000.59.30.png)
