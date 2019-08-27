@@ -5,7 +5,7 @@
 需要环境：
 
 1. zsh + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-2. 字体：[nerd-fonts[(https://github.com/ryanoasis/nerd-fonts)
+2. 字体：[nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 3. 主题：[Powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
 4. Mac os
 
