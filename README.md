@@ -1,7 +1,7 @@
 # my-powerlevel9k-config
 个人备份用，有兴趣的也可以拷贝走～
 
-### mac.bak.zshrc
+## mac.bak.zshrc
 需要环境：
 
 1. zsh + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
